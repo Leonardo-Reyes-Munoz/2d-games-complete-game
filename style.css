@@ -11,6 +11,9 @@
   transform: translate(-50%, -50%);
   max-width: 100%;
   max-height: 100%;
+  font-family: "Creepster", cursive;
+  font-family: "Dancing Script", cursive;
+  font-family: "Ysabeau Infant", sans-serif;
 }
 
 #player,
@@ -22,6 +25,8 @@
 #enemy_fly,
 #enemy_plant,
 #enemy_spider_big,
-#fire {
+#fire,
+#collision_animation,
+#lives {
   display: none;
 }
